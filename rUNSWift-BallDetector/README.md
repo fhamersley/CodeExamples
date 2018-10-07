@@ -18,7 +18,11 @@ A basic overview of the pipeline is as follows.
 10. After passing all previous heuristic checks the final stage of the ball detector is a gaussian mixed model classifier.
 
 Nomenclature: 
+
 RegionI - An image processing handle that provides access to the underlying data for that image including its raw image data, binary (known as colour) thresholded image data, position, size and density in terms of the original full image and more. RegionI constructors also allow for a RegionI passed in to be resized, have it's density changed (zoom in/out), for it to be thresholded again using different adaptive thresholding values.
+
 bdvb (ball detector vision bundle) - A bundle of data relating to the current ROI being inspected and includes it's RegionI. Used to pass data through the detector pipeline.
+
 CCA - Connected component analysis.
+
 AT - Adaptive thresholding
