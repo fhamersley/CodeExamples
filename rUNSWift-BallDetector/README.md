@@ -1,4 +1,4 @@
-#Ball Detector
+## Ball Detector
 
 These functions are all used in ball detector pipe line and are member functions of the class. They have been put into individual .cpp files for readability. The functions included were explicitly written by myself, though I was involved in almost every stage of the ball detector outlined below, through improvements to precision and recall as well as timing optimisations.
 
