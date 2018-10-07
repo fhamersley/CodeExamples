@@ -1,6 +1,6 @@
 Ball Detector
 
-These functions are all used in ball detector pipe line and are member functions of the class. They have been put into individual .cpp file for readability. The functions included were explicitly written by myself, though I was involved in almost every stage of the ball detector outlined below, through improvements to precision and recall as well as timing optimisations.
+These functions are all used in ball detector pipe line and are member functions of the class. They have been put into individual .cpp files for readability. The functions included were explicitly written by myself, though I was involved in almost every stage of the ball detector outlined below, through improvements to precision and recall as well as timing optimisations.
 
 The detector is for a 10cm wide black and white 'traditional' soccer ball design. Each function has had a description added at the top to explain its purpose in the pipeline to give context. The inline comments have not been edited otherwise. Some nomenclature can be found at the bottom of this readme.
 
