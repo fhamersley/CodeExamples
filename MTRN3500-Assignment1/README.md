@@ -1,4 +1,4 @@
-#Code from MTRN3500 Assignment 1 - Computing Applications in Mechatronic Systems
+## Code from MTRN3500 Assignment 1 - Computing Applications in Mechatronic Systems
 
 This assignment required software for to be developed for three hardware interface cards:
 1. PCM-3718 multi-function interface card
